@@ -3,6 +3,8 @@
 
 <h2>Projects and Assignments:</h2>
 
+- <b>Image Classification on CIFAR-10 dataset
+- <b>3D Reconstruction
 - <b>REINFORCE Algorithm
 - <b>Deep-Q-Network
 - <b>Weather_Energy Prediction
